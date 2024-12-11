@@ -1,0 +1,6 @@
+.env/
+ignore/
+**/_pycache/
+**/.ipynb_checkpoints/
+**/.DS_Store
+../env/
